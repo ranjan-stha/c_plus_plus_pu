@@ -1,6 +1,6 @@
 # Object Oriented Programming (in C++)
 
-This repository shall contain (almost) all the source codes discuss during the lectures of OOP (for Bachelor of Electrical Engineering (I/II), PU).
+This repository shall contain (almost) all the source codes discuss during the lectures of OOP (for Bachelor of Electrical Engineering (I/II), Purbanchal University).
 The source codes shall be placed in respective chapter folders.
 
 
