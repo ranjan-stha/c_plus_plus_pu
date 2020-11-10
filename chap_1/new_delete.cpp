@@ -19,7 +19,7 @@ int main(){
     }
     
     cout << *my_num << endl;
-    delete my_num; // deletes the pointer
+    delete my_num; // deletes the pointer reference
     return 0;
     
 }
