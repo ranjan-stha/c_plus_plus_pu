@@ -28,8 +28,8 @@ int main(){
     
     //Demo demo2 = demo1;  // also possible
     
-    //Demo demo2        // also possible
-    //demo2 = demo1
+    //Demo demo2;        // also possible
+    //demo2 = demo1;
     
     demo1.displaydata();
     demo2.displaydata();
