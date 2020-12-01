@@ -2,9 +2,9 @@
 using namespace std;
 
 /**
- * Example of a Class Implementation with member functions outside of the class.5
+ * Example of a Class Implementation
  * 
- * The example shows you how to write member functions outside of the class.
+ * The example teaches you how to write member functions outside of the class.
  */
 
 class Customer{
