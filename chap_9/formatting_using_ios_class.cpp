@@ -68,6 +68,9 @@ int main(){
     cout.unsetf(ios::showpos);
     cout.width(10);
     cout << 11.5526 << endl;
+
+    cout.setf(ios::hex, ios::basefield);
+    cout << 11 << endl;
     
     return 0;
 }
