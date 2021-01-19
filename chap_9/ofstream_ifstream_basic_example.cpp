@@ -26,8 +26,8 @@ int main(){
     // Reading from the file
     ifstream inf("item.dat");
     
-    inf >> mob_price;
-    cout << mob_price;
+    inf >> price;
+    cout << "The price read from file is " << price;
     
     inf.close();
     
