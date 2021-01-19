@@ -15,7 +15,7 @@ int main(){
     
     // Storing in the file    
     ofstream outf;
-    outf.open("country.dat");  // try append mode(ios::app)
+    outf.open("country.txt");  // try append mode(ios::app)
     outf << "USA\n";
     outf << "Germany\n";
     outf << "France\n";
@@ -26,7 +26,7 @@ int main(){
     char line[N];
     
     ifstream inf;
-    inf.open("country.dat");
+    inf.open("country.txt");
     
     while(inf){  // try !inf.eof()
         inf.getline(line, N);
