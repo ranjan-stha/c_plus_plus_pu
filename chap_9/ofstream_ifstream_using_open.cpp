@@ -12,7 +12,6 @@ using namespace std;
  */
  
 int main(){
-    float price, mob_price;
     
     // Storing in the file    
     ofstream outf;
