@@ -19,7 +19,7 @@ int main () {
   int pos = 5;
   
   outfile.seekp(pos, ios::beg);
-  outfile << " BEX Class";
+  outfile << " BEL Class";
   
   cout << "Current Cursor position: " << outfile.tellp() << endl;
   
